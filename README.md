@@ -8,12 +8,12 @@ ODB data policy, term of use, attributions and citations
 ### 引用格式
 |<!-- -->|<!-- -->|
 |--------|--------|
-|**Digital Object Identifier (DOI)**|10.5281/zenodo.7512113|
+|**Digital Object Identifier (DOI)**|[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7512113.svg)](https://doi.org/10.5281/zenodo.7512113)|
 |**引用**|國家科學及技術委員會海洋學門資料庫。[https://doi.org/10.5281/zenodo.7512113](https://doi.org/10.5281/zenodo.7512113) |
 
 ###  Citation Information
 |<!-- -->|<!-- -->|
 |-----------------------------------|---------------------------------------------------------------------------------------------|
-|**Digital Object Identifier (DOI)**|10.5281/zenodo.7512113 |
+|**Digital Object Identifier (DOI)**|[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7512113.svg)](https://doi.org/10.5281/zenodo.7512113) |
 |**Citation**|Ocean Data Bank, National Science and Technology Council, Taiwan. [https://doi.org/10.5281/zenodo.7512113](https://doi.org/10.5281/zenodo.7512113) |
           
