@@ -13,7 +13,7 @@
    引用方式依申請者申請的資料種類而異，分別由以下說明：  
    
    1. 船測資料  
-      船測資料包含：CTD、海流、水深、海底地形、海底聲納、聲納(EK60)、震測、重力與表水二氧化碳分壓等，申請者可依以下格式引用:  
+      船測資料包含：CTD、海流、水深、海底地形、海底聲納、聲納 (EK60)、震測、重力與表水二氧化碳分壓等，申請者可依以下格式引用:  
       <br>
       > Ocean Data Bank, National Science and Technology Council, Taiwan. [https://doi.org/10.5281/zenodo.7512112](https://doi.org/10.5281/zenodo.7512112). Accessed DAY/MONTH/YEAR*.
       
@@ -28,7 +28,7 @@
      同 i. 船測資料 引用格式。
            
    - 公開發表之期刊或學術論文、國際公開資料庫  
-         此類資料並非 ODB 所有，如申請資料包含此類資料(*)，資料中將附上原文獻來源並請引用之(**)。  
+         此類資料並非 ODB 所有，如申請資料包含此類資料 (*)，資料中將附上原文獻來源並請引用之(**)。  
         <br> 
         > *申請資料將依來源類別，分檔提供給申請者(如：檔案A「國科會專題計畫研究成果」、檔案B「國際公開資料庫」)，方便申請者依來源類別引用。
         
@@ -42,7 +42,7 @@
 
 + ### 資訊服務
 
-   - 如網站服務、網頁內容、電子報、API(*)等，其引用格式如下：
+   - 如網站服務、網頁內容、電子報、API(*) 等，其引用格式如下：
       <br>
       > Ocean Data Bank, National Science and Technology Council, Taiwan. [https://doi.org/10.5281/zenodo.7512112](https://doi.org/10.5281/zenodo.7512112). Accessed DAY/MONTH/YEAR from www.odb.ntu.edu.tw.
       
