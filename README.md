@@ -8,40 +8,45 @@
 <br>
 <br>
 ### 引用說明
-本資料庫資料可透過資料申請與網路 API 服務取得，引用方式分別由以下說明：
+本資料庫資料或資訊服務引用方式如下說明：
 + ### 資料申請  
    引用方式依申請者申請的資料種類而異，分別由以下說明：  
    
    1. 船測資料  
       船測資料包含：CTD、海流、水深、海底地形、海底聲納、聲納(EK60)、震測、重力與表水二氧化碳分壓等，申請者可依以下格式引用:  
       <br>
-      > Ocean Data Bank, National Science and Technology Council, Taiwan. [https://doi.org/10.5281/zenodo.7512112](https://doi.org/10.5281/zenodo.7512112). Accessed DAY/MONTH/YEAR*.   
-      > *日期（DAY/MONTH/YEAR）請修改為申請資料日期  
+      > Ocean Data Bank, National Science and Technology Council, Taiwan. [https://doi.org/10.5281/zenodo.7512112](https://doi.org/10.5281/zenodo.7512112). Accessed DAY/MONTH/YEAR*.
+      
+      > *DAY/MONTH/YEAR 請修改為資料申請之實際日期  
       
       <br>
         
    2. 生物資料  
-   生物海洋資料來源共為四類「國科會專題計畫研究成果」、「公開發表之期刊或學術論文」、「研究者主動提供資料」、「國際公開資料庫」，敬請申請者依來源類別引用之，以下說明：  
+   生物海洋資料來源共為四類「國科會專題計畫研究成果」、「公開發表之期刊或學術論文」、「研究者主動提供資料」、「國際公開資料庫」，申請者可依來源類別引用之，以下說明：  
    
    - 國科會專題計畫研究成果、研究者主動提供資料  
-     同 i. 船測資料引用格式。
+     同 i. 船測資料 引用格式。
            
    - 公開發表之期刊或學術論文、國際公開資料庫  
-         此類資料並非 ODB 所有，如申請資料包含此類資料*，資料中將附上原文獻來源並請引用之。  
-         如欲聲明資料為使用ODB資料申請服務而取得，可在原文獻引用格式末加上： 
-        <br>
-        >... Data accessed via Ocean Data Bank 2022-06-01.  
-        <br>
-        *申請資料將依來源類別，分檔提供給申請者(如：檔案A「國科會專題計畫研究成果」、檔案B「國際公開資料庫」)，敬請申請者依來源類別引用之。
+         此類資料並非 ODB 所有，如申請資料包含此類資料(*)，資料中將附上原文獻來源並請引用之(**)。  
+        <br> 
+        > *申請資料將依來源類別，分檔提供給申請者(如：檔案A「國科會專題計畫研究成果」、檔案B「國際公開資料庫」)，方便申請者依來源類別引用。
+        
+        > **如欲聲明資料為經由ODB資料申請而取得，可在原文獻引用格式末加上： 
+        > ... Accessed DAY/MONTH/YEAR via Ocean Data Bank www.odb.ntu.edu.tw.  
         <br>
    
    3. 化學資料  
-   化學資料來源共為兩類「研究者主動提供資料」與「國科會專題計畫研究成果」，敬請申請者同船測資料引用之。
-   
-  
-   
-+ ### 網路 API
+   化學資料來源共為兩類「研究者主動提供資料」與「國科會專題計畫研究成果」，申請者可依 i. 船測資料 引用之。
 
+
++ ### 資訊服務
+
+   - 如網站服務、網頁內容、電子報、API(*)等，其引用格式如下：
+      <br>
+      > Ocean Data Bank, National Science and Technology Council, Taiwan. [https://doi.org/10.5281/zenodo.7512112](https://doi.org/10.5281/zenodo.7512112). Accessed DAY/MONTH/YEAR from www.odb.ntu.edu.tw.
+      
+      > *API如需引用版本號，可將上列網址改為API網址與版本（請參考API使用文件）如：ecodata.odb.ntu.edu.tw/api/sadcp. v1.0.  
 
 <br>
 
