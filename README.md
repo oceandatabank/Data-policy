@@ -13,7 +13,7 @@
    引用方式依申請者申請的資料種類而異，分別由以下說明：  
    
    1. 船測資料  
-      船測資料包含：CTD、海流、水深、海底地形、海底聲納、聲納 (EK60)、震測、重力與表水二氧化碳分壓等，申請者可依以下格式引用:  
+      船測資料包含：CTD、海流、水深、海底地形、聲納、震測、重力與表水二氧化碳分壓等，申請者可依以下格式引用:  
       <br>
       > Ocean Data Bank, National Science and Technology Council, Taiwan. [https://doi.org/10.5281/zenodo.7512112](https://doi.org/10.5281/zenodo.7512112). Accessed DAY/MONTH/YEAR*.
       
