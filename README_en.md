@@ -4,13 +4,13 @@
 
 The **Ocean Data Bank (ODB)** is operated and maintained by the **Institute of Oceanography, National Taiwan University**, under the commission of the **National Science and Technology Council (NSTC)**, Taiwan. ODB collects, processes, and curates interdisciplinary marine data obtained from Taiwan’s research vessels. These data are available for application and use by government agencies, academic and research institutions, and industry stakeholders.
 
-The release of ODB raw data strictly adheres to NSTC regulations and is **currently not available to foreign nationals**. However, ODB provides a variety of **open-access online information services** and **open data downloads**. For more information, please refer to the application tools and the citation guidelines below.
+The release of ODB raw data strictly adheres to NSTC regulations and is currently not available to foreign nationals. However, ODB offers a variety of open-access online information services and open data downloads. For more information, please refer to the application tools and the citation guidelines below.
 
 <br>
 
 ### Citation Guidelines
 
-The citation format for ODB data and services varies depending on the type of data or service accessed. Please follow the instructions below:
+The citation formats for ODB data and services vary depending on the type of data or service accessed. Please follow the instructions below:
 
 + ### Data Requests
 
@@ -35,11 +35,11 @@ The citation format for ODB data and services varies depending on the type of da
       
       Citation instructions vary by source:
       
-      - **NSTC-funded projects and voluntarily contributed datasets**  
+      - **For NSTC-funded projects and voluntarily contributed datasets**  
         Use the same format as *Ship Underway Data*.
       
-      - **Published journal articles and international open-access databases**  
-        These sources are not owned by ODB. If your requested data includes such sources (*), the original sources will be provided and should be cited accordingly (**).
+      - **For Published journal articles and international open-access databases**  
+        As these sources are not owned by ODB (*), the original sources will be provided and should be cited accordingly (**).
       
         <br>
         
