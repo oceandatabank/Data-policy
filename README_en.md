@@ -26,29 +26,16 @@ The citation formats for ODB data and services vary depending on the type of dat
       <br>
 
    2. **Biological Data**  
-      Biological data originate from various sources, such as  
-      
-      - NSTC-funded research projects  
-      - Published journal articles or academic papers  
-      - Voluntarily contributed datasets from researchers  
-      - International open-access databases  
+      Biological data originate from various sources, such as NSTC-funded research projects, published journal articles or academic papers, voluntarily contributed datasets from researchers and international open-access databases.
       
       Citation instructions vary by source:
       
       - **For NSTC-funded projects and voluntarily contributed datasets**  
-        Use the same format as *Ship Underway Data*.
+        Follow the same format as *Ship-based Data*.
       
       - **For other sources**  
-        As these sources are not owned by ODB (*), original sources will be provided if your requested dataset includes such records. Please refer to the field “bibliographicCitation” for proper citation (**).
-      
-        <br>
-        
-        >*Files will be grouped by source (e.g., File A: “NSTC project data”, File B: “International open database”) for easy citation.
-        
-          > **To indicate that the data were accessed via ODB, you may append:  
-          > ... Accessed DAY/MONTH/YEAR via Ocean Data Bank (www.odb.ntu.edu.tw).
-        
-      
+        As these sources are not owned by ODB. The original sources will be provided if your requested dataset includes such records. Please refer to the field “bibliographicCitation” for proper citation.           
+   
         <br>
       
    3. **Chemical Data**  
