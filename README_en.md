@@ -39,7 +39,7 @@ The citation formats for ODB data and services vary depending on the type of dat
         Use the same format as *Ship Underway Data*.
       
       - **For other sources**  
-        As these sources are not owned by ODB (*), original sources will be provided if your requested dataset includes such records. Please refer to the field “bibliographicCitation” for proper citation. (**).
+        As these sources are not owned by ODB (*), original sources will be provided if your requested dataset includes such records. Please refer to the field “bibliographicCitation” for proper citation (**).
       
         <br>
         
