@@ -14,7 +14,7 @@ The citation formats for ODB data and services vary depending on the type of dat
 
 + ### Data Requests
 
-   1. **Ship Underway Data**  
+   1. **Ship-based Data**  
       Includes CTD, ocean current, bathymetry, seafloor topography, sonar, seismic data, gravity, and surface partial pressure of CO₂ (pCO₂).  
       Citation format:  
       <br>
@@ -26,7 +26,7 @@ The citation formats for ODB data and services vary depending on the type of dat
       <br>
 
    2. **Biological Data**  
-      Biological data originate from four sources:  
+      Biological data originate from various sources, such as  
       
       - NSTC-funded research projects  
       - Published journal articles or academic papers  
@@ -38,8 +38,8 @@ The citation formats for ODB data and services vary depending on the type of dat
       - **For NSTC-funded projects and voluntarily contributed datasets**  
         Use the same format as *Ship Underway Data*.
       
-      - **For Published journal articles and international open-access databases**  
-        As these sources are not owned by ODB (*), the original sources will be provided and should be cited accordingly (**).
+      - **For other sources**  
+        As these sources are not owned by ODB (*), original sources will be provided if your requested dataset includes such records. Please refer to the field “bibliographicCitation” for proper citation. (**).
       
         <br>
         
