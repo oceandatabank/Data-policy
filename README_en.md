@@ -4,7 +4,7 @@
 
 The **Ocean Data Bank (ODB)** is operated and maintained by the **Institute of Oceanography, National Taiwan University**, under the commission of the **National Science and Technology Council (NSTC)**, Taiwan. ODB collects, processes, and curates interdisciplinary marine data obtained from Taiwan’s research vessels. These data are available for application and use by government agencies, academic and research institutions, and industry stakeholders.
 
-The release of ODB raw data strictly adheres to NSTC regulations and is currently not available to foreign nationals. However, ODB offers a variety of open-access online information services and open data downloads. For more information, please refer to the application tools and the citation guidelines below.
+The release of ODB raw data is subject to NSTC regulations and is currently not available to foreign nationals. However, ODB offers a variety of open-access online information services and open data downloads. For more information, please refer to the application tools and the citation guidelines below.
 
 <br>
 
