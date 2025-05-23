@@ -43,7 +43,7 @@ The citation formats for ODB data and services vary depending on the type of dat
       - NSTC-funded research projects  
       - Voluntarily contributed datasets  
 
-      Use the same format as *Ship Underway Data*.
+      Use the same format as *Ship-based Data*.
 
 + ### Information Services
 
