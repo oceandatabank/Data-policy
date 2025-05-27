@@ -47,11 +47,11 @@ The citation formats for ODB data and services vary depending on the type of dat
 
 + ### Information Services
 
-   For website services, content, newsletters, and APIs (*), use the following citation format:	
+   For website services, content, newsletters, and APIs, use the following citation format:	
   
   > Ocean Data Bank, National Science and Technology Council, Taiwan. [https://doi.org/10.5281/zenodo.7512112](https://doi.org/10.5281/zenodo.7512112). Accessed DAY/MONTH/YEAR from www.odb.ntu.edu.tw.
   
-    > *To cite a specific API version, replace the URL above with the API’s URL and version number (refer to the API documentation).  
+   > To cite a specific API version, replace the URL above with the API’s URL and version number (refer to the API documentation).  
    > Example: ecodata.odb.ntu.edu.tw/api/sadcp.v1.0*
 
 <br>
